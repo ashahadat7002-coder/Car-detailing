@@ -1,0 +1,12 @@
+@import "tailwindcss";
+body{
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-image: url('/hero-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: rgba(17,24,39,0.85);
+  background-blend-mode: overlay;
+}
